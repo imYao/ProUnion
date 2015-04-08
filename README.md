@@ -1,2 +1,2 @@
 # ProUnion
-An Open Union of Professionals, Providers and Projects.
+An Open **Union** of **Pro**fessionals, **Pro**viders and **Pro**jects.
